@@ -1,6 +1,8 @@
 # proyecto1
 prueba
+
 \```javascript
+
 <!doctype html>
 <html lang="es">
 
